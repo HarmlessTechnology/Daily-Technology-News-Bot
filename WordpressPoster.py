@@ -1,5 +1,5 @@
 # Daily Tech News Bot - WORDPRESS POST CREATOR
-# For Harmless Technology Internal Use Only - HIGHLY SENSITIVE INFORMATION
+#V0.1
 
 import requests
 import json
