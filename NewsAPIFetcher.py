@@ -1,5 +1,5 @@
 # Daily Tech News Bot - NEWS API FETCHER/CONTENT WRITER
-# For Harmless Technology Internal Use Only - SENSITIVE INFORMATION
+#V0.1
 
 import pprint # DEBUG
 import requests
