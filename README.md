@@ -1,2 +1,3 @@
-# Daily-Technology-News-Bot
-The daily technology news bot used by https://harmlesstechnology.com
+# DailyTechnologyNewsBot
+FOR INTERNAL USE ONLY
+Create seperate repo for public release, this repo contains old credentials 
