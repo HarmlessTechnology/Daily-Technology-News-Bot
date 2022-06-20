@@ -1,3 +1,2 @@
-# DailyTechnologyNewsBot
-FOR INTERNAL USE ONLY
-Create seperate repo for public release, this repo contains old credentials 
+# Daily Technology News Bot
+This program creates the Daily Technology News for https://harmlesstechnology.com
