@@ -47,7 +47,7 @@ parameters3 = {
 
 # Request parameters Wired
 parameters4 = {
-    'sources': 'wired',  # source
+    'sources': 'techcrunch',  # source
     'language': lang,  # language
     'pageSize': articleNum,  # max 100
     'from': yesterday,  # Time period
