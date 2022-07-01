@@ -45,7 +45,7 @@ parameters3 = {
     'apiKey': APIkey  # API Key
 }
 
-# Request parameters Wired
+# Request parameters TechCrunch
 parameters4 = {
     'sources': 'techcrunch',  # source
     'language': lang,  # language
